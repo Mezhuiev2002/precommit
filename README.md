@@ -16,4 +16,4 @@
 
 ## About team task management (screenshot/description)
 > Залиште тут знімок екрану з вашого таск менеджера чи аргументуйте вибір, якщо обрали іншу стратегію.  
-https://i.yapx.ru/QquE1.png
+![trello](https://i.yapx.ru/Qqu2u.png) 
